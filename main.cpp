@@ -93,7 +93,7 @@ float Estimate_ReferenceLight_fast(float* I1, float* I2, float step)
 {
 	float Rtest;
 	// compute the range of search
-	//you code here to calculate Rmin and Rmax and replace the following numbers
+	
 	float Rmin = 1.0;
 	float Rmax = 2.5;
 
@@ -155,7 +155,7 @@ float Estimate_ReferenceLight_original(float* I1, float* I2, float step)
 {
 	float Rtest;
 	// compute the range of search
-	//you code here to calculate Rmin and Rmax and replace the following numbers
+	
 	float Rmin = 1.0;
 	float Rmax = 2.5;
 
